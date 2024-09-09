@@ -8,9 +8,8 @@ let userMessage;
 
 // Agr code nhi chl rha ho to ho scta h ki api key expire ho gai h
 // New api key k lie tumhe new phone no chaiye jispe chatGPT ki id na bni ho
-// Abhi k lie mene mummy ke phone no se Id bna k API key generate kri thi
 
-const API_KEY = "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"; 
+const API_KEY = "write Api key here"; 
 const inputInitHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
